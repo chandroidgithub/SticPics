@@ -1,0 +1,23 @@
+.dropdown-menu {
+    right: 0;
+    left: auto;
+}
+
+.mainLogo{
+    max-width: 220px;    
+    border: 0;
+  }
+
+.imageContainer{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+
+.page_header{
+    background: #fff;
+    padding: 10px 0;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+    position: relative;
+    z-index: 99;
+}
